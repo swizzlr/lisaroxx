@@ -99,3 +99,4 @@ DEPENDENCIES
   middleman
   middleman-gh-pages
   middleman-livereload
+  sprockets
