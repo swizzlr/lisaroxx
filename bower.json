@@ -1,0 +1,20 @@
+{
+  "name": "lisaroxx",
+  "version": "0.0.0",
+  "homepage": "https://github.com/swizzlr/lisaroxx",
+  "authors": [
+    "Swizzlr <git@swizzlr.co>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.0"
+  }
+}
